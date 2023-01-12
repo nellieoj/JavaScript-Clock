@@ -27,7 +27,10 @@ body {
   font-weight: 100;
   color: #63c5da;
 }
-@media screen and (max-width: 375px) {
+@media screen and (max-width: 768px) {
+  body{
+    height: 70vh;
+  }
   .content {
     font-size: 3rem;
   }
