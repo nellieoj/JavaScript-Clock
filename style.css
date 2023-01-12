@@ -27,7 +27,7 @@ body {
   font-weight: 100;
   color: #63c5da;
 }
-@media screen and (max-width: 425px) {
+@media screen and (max-width: 375px) {
   .content {
     font-size: 3rem;
   }
